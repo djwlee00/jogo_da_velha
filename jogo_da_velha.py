@@ -7,9 +7,9 @@ def tabuleiro():
     print("| ", espacos[6], "| ", espacos[7], "| ", espacos[8], "|")
     print("+----+----+----+")
 
-print("***********")
+print("************************")
 print("   Bem vindo ao jogo da velha!   ")
-print("***********")
+print("************************")
 print("")
 print("Esse jogo precisará de 2 jogadores")
 
